@@ -1,1 +1,5 @@
-# decentralizedportfolio
+- [Hardhat](https://hardhat.org/) - Development environment for Ethereum smart contracts.
+- [IPFS](https://ipfs.io/) - Decentralized storage for portfolio data.
+- [Web3.js](https://web3js.readthedocs.io/) - JavaScript library for interacting with Ethereum.
+- [Metamask](https://metamask.io/)
+- [Metamask](https://metamask.io/) - Cryptocurrency Wallet
